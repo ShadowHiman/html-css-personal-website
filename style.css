@@ -85,8 +85,8 @@
     background-color:#9B8AB4;
     height:450px;
     width:100%;
-    font-family:Anton SC;
     color:#fff0f5;
+    font-family:Anton SC;
 }
 
 /*.nine{
@@ -94,7 +94,6 @@
     color:#fff0f5;
 
 }*/
-
 .nine>div>div>.button{
     background-color:#fff0f5;
     color:#9B8AB4;
@@ -105,4 +104,6 @@
     background-color:#fff0f5;
     font-family:Anton SC;
 }
+
+
 
